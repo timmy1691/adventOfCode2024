@@ -1,4 +1,4 @@
-# Advent of Code 2024
+# Advent of Code December 2024
 
 This is the collection of solutions to the advent of code 2024 
 
